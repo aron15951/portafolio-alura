@@ -1,0 +1,2 @@
+# portafolio-alura
+Caracteristicas profesionales
